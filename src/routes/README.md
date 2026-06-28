@@ -172,7 +172,7 @@ npm run preview
 
 * GitHub: https://github.com/RohiniManjunath07
 * LinkedIn: https://linkedin.com/in/rohinim-
-* Email: [mrohini0704@gmail.com](mailto:mrohini0704@gmail.com)
+* Email: [rohinimanjunath0613@gmail.com](mailto:rohinimanjunath06130704@gmail.com)
 
 ---
 

@@ -367,5 +367,5 @@ export const projectBySlug = (slug: string) =>
 
 export const GITHUB_URL = "https://github.com/RohiniManjunath07";
 export const LINKEDIN_URL = "https://www.linkedin.com/in/rohinim-";
-export const EMAIL = "mrohini0704@gmail.com";
+export const EMAIL = "rohinimanjunath0613@gmail.com";
 export const PHONE = "+91 77607 91428";
