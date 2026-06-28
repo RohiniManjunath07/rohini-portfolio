@@ -873,7 +873,7 @@ function Contact() {
                 GitHub
               </a>
               <a
-                href="/public/resume.pdf"
+                href="/resume.pdf"
                 target="_blank"
                 rel="noreferrer"
                 className="rounded-full px-6 py-3 text-sm font-medium glass hover:bg-white/10 transition-all"
