@@ -1,4 +1,4 @@
-# 🌐 Rohini M — AI & Software Engineer Portfolio
+# 🌐 Rohini M - AI & Software Engineer Portfolio
 
 A modern, responsive portfolio showcasing my work in Artificial Intelligence, Machine Learning, Mobile Development, and Full-Stack Software Engineering.
 
@@ -9,7 +9,7 @@ Built with performance, clean design, and recruiter-friendly project case studie
 > Add your deployed portfolio URL here after deployment
 
 ```
-https://your-portfolio.netlify.app
+https://rohini-m.netlify.app/
 ```
 
 ---
