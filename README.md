@@ -6,8 +6,6 @@ Built with performance, clean design, and recruiter-friendly project case studie
 
 ## 🚀 Live Demo
 
-> Add your deployed portfolio URL here after deployment
-
 ```
 https://rohini-m.netlify.app/
 ```
